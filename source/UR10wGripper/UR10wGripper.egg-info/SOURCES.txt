@@ -1,0 +1,10 @@
+pyproject.toml
+setup.py
+UR10wGripper/__init__.py
+UR10wGripper/ui_extension_example.py
+UR10wGripper.egg-info/PKG-INFO
+UR10wGripper.egg-info/SOURCES.txt
+UR10wGripper.egg-info/dependency_links.txt
+UR10wGripper.egg-info/not-zip-safe
+UR10wGripper.egg-info/requires.txt
+UR10wGripper.egg-info/top_level.txt
